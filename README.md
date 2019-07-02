@@ -2,7 +2,7 @@
 
 ## Usage
 
-```
+```csharp
 services
   .AddHttpClient<IYouSignService, YouSignService>(client =>
   {
